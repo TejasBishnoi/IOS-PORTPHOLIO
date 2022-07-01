@@ -12,6 +12,7 @@ struct PortPholioApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
-}
+    }
